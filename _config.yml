@@ -44,10 +44,7 @@ features                                  :
   - title                                 : Export Subtitles to WebVTT
     description                           : VideoSubs exports subtitles to the widely-used WebVTT format.
     fontawesome_icon_name                 : magic
-  
-  - title                                 : No Subscription Required
-    description                           : You don't need a subscription to use VideoSubs.
-    fontawesome_icon_name                 : star
+
 
 
 # Theme Settings
