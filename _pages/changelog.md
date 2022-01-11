@@ -12,5 +12,3 @@ include_in_header: true
 ### `Initial Release`
 # **Version 1.0**
 Initial version of VideoSubs released to the App Store!
-
-<br>
