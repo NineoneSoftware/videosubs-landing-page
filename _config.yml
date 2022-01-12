@@ -34,17 +34,28 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Automatically Generate Subtitles
-    description                           : VideoSubs will automatically generate subtitles for your videos using the latest speech recognition technology.
+    description                           : VideoSubs uses the latest speech recognition technology to automatically generate subtitles for your videos.
     fontawesome_icon_name                 : sync
 
   - title                                 : Adjust Grammar and Spelling
-    description                           : If needed, you can modify the grammar and spelling of your video's generated subtitles before exporting to WebVTT.
+    description                           : If there are edits you'd like to make to the generated subtitles you can make your overrides before exporting.
     fontawesome_icon_name                 : adjust
 
   - title                                 : Export Subtitles to WebVTT
-    description                           : VideoSubs exports subtitles to the widely-used WebVTT format.
+    description                           : VideoSubs exports subtitles to WebVTT format.
     fontawesome_icon_name                 : magic
 
+  - title                                 : Video Streaming
+    description                           : Your generated WebVTT files can then be added your video streaming services such as Mux (https://mux.com) or YouTube.
+    fontawesome_icon_name                 : box-open
+
+  - title                                 : Video Subtitles
+    description                           : WebVTT files can also be embedded into your videos with apps like Subler (https://subler.org).
+    fontawesome_icon_name                 : box-open
+
+  - title                                 : One-time Payment
+    description                           : No subscription is needed to utilize VideoSubs. You videos can be as long or as short as you like.
+    fontawesome_icon_name                 : infinity
 
 
 # Theme Settings
